@@ -3,7 +3,9 @@
 
 ![PixelEran64](https://user-images.githubusercontent.com/80072131/115317263-c56d6280-a183-11eb-8bb4-72d436c5a7d9.png)
 
-
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/80072131/115317263-c56d6280-a183-11eb-8bb4-72d436c5a7d9.png">
+</p>
 
 
 
