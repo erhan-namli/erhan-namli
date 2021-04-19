@@ -1,4 +1,4 @@
-### Hi there, Tere is What I'm working On! 👋
+### Hi there, There is What I'm working On! 👋
 
 Here are some ideas to get you started:
 
@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Science - Machine Learning - JS 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...Anytihng
+- 💬 Ask me about ...Anything
 - 📫 How to reach me: [e-mail](erhan_namli@outlook.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
