@@ -1,4 +1,4 @@
-![Pixel-Portrait1](https://user-images.githubusercontent.com/80072131/115317521-64925a00-a184-11eb-8ad3-d436917c138b.jpg)
+
 ### Hi there, I'm Erhan 👋
 
 <p align="center">
