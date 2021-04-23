@@ -6,8 +6,8 @@
 </p>
 
 
-- 🔭 I’m currently working on Machine Learning
-- 🌱 I’m currently learning Data Science - Machine Learning - JS 
+- 🔭 I’m currently working on Machine Learning and some Web Scrapping projects to doing machine learning model for them
+- 🌱 I’m currently learning Data Science - Machine Learning - JS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...Anything
