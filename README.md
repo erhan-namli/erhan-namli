@@ -7,8 +7,8 @@
 
 
 - 🔭 I’m currently working on Machine Learning and some Web Scrapping projects to doing machine learning model for them, and creating GUI for making life easier :D
+- 🤙  And I'm making Arduino bots for fun 
 - 🌱 I’m currently learning Data Science - Machine Learning - Javascript 
 - 💬 Ask me about anything
 - 📫 How to reach me: [e-mail](erhan_namli@outlook.com)
 - 😄 Pronouns: Self-learner, Computer lover
-
