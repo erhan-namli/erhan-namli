@@ -6,7 +6,7 @@
 </p>
 
 
-- 🔭 I’m currently working on Machine Learning and some Web Scrapping projects to doing machine learning model for them, and creating GUI for making life easier :D
+- 🔭 I'm working on full functional autonomous car  
 - 🤙  And I'm making Arduino bots for fun 
 - 🌱 I’m currently learning Machine Learning - Autonomity - Electronics
 - 💬 Ask me about anything
