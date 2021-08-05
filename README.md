@@ -2,7 +2,7 @@
 ### Hi there, I'm Erhan 👋
 
 <p align="center">
-  <img width="256" height="256" src="https://user-images.githubusercontent.com/80072131/115317263-c56d6280-a183-11eb-8bb4-72d436c5a7d9.png">
+  <img width="256" height="256" src="https://erhan-namli.github.io/assets/img/480.jpg">
 </p>
 
 
