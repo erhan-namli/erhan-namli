@@ -8,7 +8,7 @@
 
 - 🔭 I'm working on full functional autonomous car  
 - 🤙  And I'm making Arduino bots for fun 
-- 🌱 I’m currently learning Machine Learning - OpenCV - Autonomity - Electronics
+- 🌱 I’m currently learning Machine Learning - NLP - OpenCV - Autonomity - Electronics
 - 💬 Ask me about anything
 - 📫 How to reach me: [e-mail](erhan_namli@outlook.com)
-- 😄 Pronouns: Self-learner, Computer lover
+- 😄 Pronouns: Self-learner, computer lover
