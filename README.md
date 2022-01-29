@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Erhan</h1>
 <h3 align="center">A passionate python developer from Turkey</h3>
 
-<p align="center">
-  <img width="480" height="640" src="https://erhan-namli.github.io/assets/img/480.jpg">
-</p>
-
 - :grey_exclamation: I can develop an app or website on the internet, I have deep knowledge about python frameworks and how the process work.
 - 🔭 I’m currently working on [Modbus-TCP/IP GUI](https://github.com/erhan-namli/modbus-tcp-gui)
 - 🤙  And I'm making Arduino bots for fun 
