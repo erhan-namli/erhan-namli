@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Erhan</h1>
-<h3 align="center">A passionate python developer from Turkey</h3>
+<h3 align="center">A passionate python & web & embedded systems developer from Turkey</h3>
 
 - :grey_exclamation: I can develop an app or website on the internet, I have deep knowledge about python frameworks and how the process work.
 - 🔭 I’m currently working on [Modbus-TCP/IP GUI](https://github.com/erhan-namli/modbus-tcp-gui)
