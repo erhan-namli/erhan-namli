@@ -3,7 +3,6 @@
 <h3 align="center">A passionate  web & embedded systems and ai developer from Turkey</h3>
 
 - :grey_exclamation: I can develop an app or website on the internet, I have deep knowledge about backend & frontend frameworks and how the process work.
-- 🔭 I’m currently working on [Modbus-TCP/IP GUI](https://github.com/erhan-namli/modbus-tcp-gui)
 - 🤙  And I'm making Arduino bots for fun 
 - 🌱 I’m currently learning Machine Learning - NLP - OpenCV - Autonomity - Electronics
 - 👨‍💻 All of my projects are available at [https://erhan-namli.github.io/](https://erhan-namli.github.io/)
